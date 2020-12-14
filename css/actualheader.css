@@ -1,0 +1,24 @@
+body {
+    margin: 0;
+  }
+  .header {
+    padding: 10px 16px;
+    background: rgb(44, 44, 44, 0.5);
+    color: #f1f1f1;
+  }
+  .sticky {
+    position: fixed;
+    top: 0;
+    width: 100%;
+  }
+
+  .footer {
+    padding: 1px 16px;
+    color: #f1f1f1;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    color: white;
+    text-align: center;
+  }
