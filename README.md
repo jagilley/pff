@@ -1,3 +1,3 @@
-# jagilley.github.io
+# Playoff Fantasy Football (PFF)
 
-This is a very nice looking website for moi.
+I lost the regular fantasy season, so I needed to code a second chance at redemption
