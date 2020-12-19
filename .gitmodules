@@ -1,3 +1,6 @@
 [submodule "python-getting-started"]
 	path = python-getting-started
 	url = https://github.com/heroku/python-getting-started.git
+[submodule "ot-football-django"]
+	path = ot-football-django
+	url = https://github.com/jagilley/ot-football-django
