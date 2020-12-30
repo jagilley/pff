@@ -1,9 +1,4 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-Created on Fri Apr 20 04:20:00 2018
-@author: Degentleman
-"""
+
 
 from urllib.request import urlopen
 import pandas as pd
